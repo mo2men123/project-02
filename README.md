@@ -1,2 +1,7 @@
-# project-02
- junior front-end-developer challenge from front end mentor community  
+# Frontend Mentor - Clipboard landing page
+
+![Design preview for the Clipboard landing page coding challenge](./design/desktop-preview.jpg)
+
+## Welcome! 👋
+
+
